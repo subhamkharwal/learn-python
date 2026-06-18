@@ -1,0 +1,7 @@
+.claude
+.vscode
+!README.md
+.env
+.env*
+CLAUDE.md
+course-plan

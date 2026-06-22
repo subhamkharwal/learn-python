@@ -1,7 +1,7 @@
-# Python Zero to Hero — Complete Course Plan
+# Python Zero to Hero
 
-> Designed for absolute beginners. Each chapter is broken into daily sessions (~45–60 min/day).
-> No prior programming experience required.
+> A complete, hands-on Python course for absolute beginners — no prior programming experience required.
+> Each chapter is broken into daily sessions (~45–60 min/day) with notes and runnable code examples.
 
 ---
 
@@ -9,34 +9,32 @@
 
 | Chapter | Title | Days | Cumulative Day |
 |---------|-------|------|----------------|
-| 01 | Getting Started with Python | 2 | Day 1–2 |
-| 02 | Variables & Data Types | 2 | Day 3–4 |
-| 03 | Operators & Expressions | 2 | Day 5–6 |
-| 04 | Strings In-Depth | 4 | Day 7–10 |
-| 05 | Control Flow | 2 | Day 11–12 |
-| 06 | Loops | 3 | Day 13–15 |
-| 07 | Functions | 4 | Day 16–19 |
-| 08 | Data Structures | 4 | Day 20–23 |
-| 09 | File I/O | 2 | Day 24–25 |
-| 10 | Error Handling | 2 | Day 26–27 |
-| 11 | Modules & Packages | 2 | Day 28–29 |
-| 12 | Object-Oriented Programming | 4 | Day 30–33 |
-| 13 | Iterators & Generators | 2 | Day 34–35 |
-| 14 | Functional Programming | 3 | Day 36–38 |
-| 15 | Capstone Project | 4 | Day 39–42 |
+| [01](chapter-01/README.md) | Getting Started with Python | 2 | Day 1–2 |
+| [02](chapter-02/README.md) | Variables & Data Types | 2 | Day 3–4 |
+| [03](chapter-03/README.md) | Operators & Expressions | 2 | Day 5–6 |
+| [04](chapter-04/README.md) | Strings In-Depth | 4 | Day 7–10 |
+| [05](chapter-05/README.md) | Control Flow | 2 | Day 11–12 |
+| [06](chapter-06/README.md) | Loops | 3 | Day 13–15 |
+| [07](chapter-07/README.md) | Functions | 4 | Day 16–19 |
+| [08](chapter-08/README.md) | Data Structures | 4 | Day 20–23 |
+| [09](chapter-09/README.md) | File I/O | 2 | Day 24–25 |
+| [10](chapter-10/README.md) | Error Handling | 2 | Day 26–27 |
+| [11](chapter-11/README.md) | Modules & Packages | 2 | Day 28–29 |
+| [12](chapter-12/README.md) | Object-Oriented Programming | 4 | Day 30–33 |
+| [13](chapter-13/README.md) | Iterators & Generators | 2 | Day 34–35 |
+| [14](chapter-14/README.md) | Functional Programming | 3 | Day 36–38 |
+| [15](chapter-15/README.md) | Capstone Project | 4 | Day 39–42 |
 
 **Total: 42 days** (~8–9 weeks at 5 days/week with weekends off)
 
-> **What changed from v1:** Chapter 04 (Strings) gained a day — Day 9 was split into Day 9a (formatting + transformation methods) and Day 9b (search methods + hands-on projects) after review. Chapter 07 (Functions) gained a day — Day 17 was split into Day 17 (`*args`/`**kwargs`) and Day 18 (scope + recursion) to reduce cognitive load. All subsequent day numbers shifted by +2.
-
 ---
 
-## Detailed Daily Breakdown
+## Daily Breakdown
 
 ---
 
 ### Chapter 01 — Getting Started with Python
-> Goal: Have Python installed, understand what it is, and run your first program.
+> Have Python installed, understand what it is, and run your first program.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -46,7 +44,7 @@
 ---
 
 ### Chapter 02 — Variables & Data Types
-> Goal: Understand how Python stores and labels data.
+> Understand how Python stores and labels data.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -56,7 +54,7 @@
 ---
 
 ### Chapter 03 — Operators & Expressions
-> Goal: Do math, compare values, and combine conditions.
+> Do math, compare values, and combine conditions.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -66,7 +64,7 @@
 ---
 
 ### Chapter 04 — Strings In-Depth
-> Goal: Master Python's most-used data type.
+> Master Python's most-used data type.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -78,7 +76,7 @@
 ---
 
 ### Chapter 05 — Control Flow
-> Goal: Make decisions in your code.
+> Make decisions in your code.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -88,7 +86,7 @@
 ---
 
 ### Chapter 06 — Loops
-> Goal: Repeat actions without repeating code.
+> Repeat actions without repeating code.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -99,7 +97,7 @@
 ---
 
 ### Chapter 07 — Functions
-> Goal: Write reusable, organized code blocks.
+> Write reusable, organized code blocks.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -111,7 +109,7 @@
 ---
 
 ### Chapter 08 — Data Structures
-> Goal: Store and organize collections of data.
+> Store and organize collections of data.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -123,7 +121,7 @@
 ---
 
 ### Chapter 09 — File I/O
-> Goal: Read from and write to files on disk.
+> Read from and write to files on disk.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -133,7 +131,7 @@
 ---
 
 ### Chapter 10 — Error Handling
-> Goal: Write programs that don't crash unexpectedly.
+> Write programs that don't crash unexpectedly.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -143,7 +141,7 @@
 ---
 
 ### Chapter 11 — Modules & Packages
-> Goal: Use Python's ecosystem and organize your own code.
+> Use Python's ecosystem and organize your own code.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -153,7 +151,7 @@
 ---
 
 ### Chapter 12 — Object-Oriented Programming (OOP)
-> Goal: Model real-world things as code objects.
+> Model real-world things as code objects.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -165,7 +163,7 @@
 ---
 
 ### Chapter 13 — Iterators & Generators
-> Goal: Understand how Python's `for` loop really works under the hood.
+> Understand how Python's `for` loop really works under the hood.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -175,7 +173,7 @@
 ---
 
 ### Chapter 14 — Functional Programming
-> Goal: Write clean, expressive Python using functional patterns.
+> Write clean, expressive Python using functional patterns.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -186,10 +184,9 @@
 ---
 
 ### Chapter 15 — Capstone Project
-> Goal: Build a complete CLI application that ties all concepts together.
+> Build a complete CLI application that ties all concepts together.
 
-**Project: Personal Task Manager (CLI)**
-A command-line task manager that stores tasks in a JSON file with add, list, complete, and delete operations.
+**Project: Personal Task Manager (CLI)** — a command-line task manager that stores tasks in a JSON file with add, list, complete, and delete operations.
 
 | Day | Topics | Hands-on |
 |-----|--------|----------|
@@ -205,7 +202,7 @@ A command-line task manager that stores tasks in a JSON file with add, list, com
 1. **One session per day** — each day is ~45–60 minutes of focused learning + coding.
 2. **Type the code yourself** — don't copy-paste. Muscle memory matters.
 3. **Break things on purpose** — modify examples to see what happens when they fail.
-4. **Each chapter has its own folder** — notes, examples, and exercises live there.
+4. **Each chapter has its own folder** — a `README.md` with notes plus runnable `dayN_examples.py` files.
 
 ---
 
@@ -213,40 +210,65 @@ A command-line task manager that stores tasks in a JSON file with add, list, com
 
 ```
 learn-python/
-├── course-plan/
-│   └── README.md              ← this file
+├── README.md                  ← this file
 ├── chapter-01/                ← Day 1–2
-│   ├── notes.md
+│   ├── README.md
 │   ├── day1_examples.py
 │   └── day2_examples.py
 ├── chapter-02/                ← Day 3–4
-│   ├── notes.md
+│   ├── README.md
 │   ├── day3_examples.py
 │   └── day4_examples.py
 ├── chapter-03/                ← Day 5–6
-│   ├── notes.md
+│   ├── README.md
 │   ├── day5_examples.py
 │   └── day6_examples.py
-├── chapter-04/                ← Day 7–10 (Day 9 split into 9a/9b)
-│   ├── notes.md
+├── chapter-04/                ← Day 7–10
+│   ├── README.md
 │   ├── day7_examples.py
 │   ├── day8_examples.py
 │   └── day9_examples.py
 ├── chapter-05/                ← Day 11–12
-│   ├── notes.md
+│   ├── README.md
 │   ├── day10_examples.py
 │   └── day11_examples.py
 ├── chapter-06/                ← Day 13–15
-│   ├── notes.md
+│   ├── README.md
 │   ├── day12_examples.py
 │   ├── day13_examples.py
 │   └── day14_examples.py
-├── chapter-07/                ← Day 16–19 (Day 17 split into 17/*args* + 18/scope)
-│   ├── notes.md
+├── chapter-07/                ← Day 16–19
+│   ├── README.md
 │   ├── day15_examples.py
 │   ├── day16_examples.py
 │   └── day17_examples.py
-└── chapter-08 to 15/          ← Day 20–42 (to be built)
+├── chapter-08/                ← Day 20–23
+│   ├── README.md
+│   └── day20_examples.py … day23_examples.py
+├── chapter-09/                ← Day 24–25
+│   ├── README.md
+│   └── day24_examples.py, day25_examples.py
+├── chapter-10/                ← Day 26–27
+│   ├── README.md
+│   └── day26_examples.py, day27_examples.py
+├── chapter-11/                ← Day 28–29
+│   ├── README.md
+│   ├── day28_examples.py, day29_examples.py
+│   └── utils.py
+├── chapter-12/                ← Day 30–33
+│   ├── README.md
+│   └── day30_examples.py … day33_examples.py
+├── chapter-13/                ← Day 34–35
+│   ├── README.md
+│   └── day34_examples.py, day35_examples.py
+├── chapter-14/                ← Day 36–38
+│   ├── README.md
+│   └── day36_examples.py … day38_examples.py
+└── chapter-15/                ← Day 39–42 (Capstone)
+    ├── README.md
+    ├── day39_examples.py … day42_examples.py
+    ├── task.py
+    └── task_manager.py
 ```
 
-> **Note on file naming:** Example files in chapters 01–07 retain their original day-number filenames (day1 through day17). The +2 day shift applies to the course schedule only — existing filenames are unchanged to avoid confusion.
+> **Note on file naming:** Example files are named by their day number (`day1` through `day42`). Chapter 04's Day 9 covers two sessions (9a/9b) within a single `day9_examples.py`.
